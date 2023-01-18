@@ -1,0 +1,8 @@
+name,power_w,hours_per_day,duty_cycle
+Water heater,2000,3,1.0
+Air conditioner,1500,8,0.7
+LED lighting (whole home),120,6,1.0
+Refrigerator,150,24,0.4
+Washing machine,500,1,0.8
+Old incandescent lighting,600,6,1.0
+Malformed row,not_a_number,5,1.0

@@ -1,0 +1,4 @@
+name,voltage_v,current_a,length_m,resistance_ohm_per_km
+Workshop feeder,230,20,50,1.2
+Pump feeder,400,16,120,0.8
+Lighting run,230,10,30,1.8

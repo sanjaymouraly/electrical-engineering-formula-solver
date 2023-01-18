@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+results.csv
+out.csv
+docs/sample_report.html
+
+# Local caches and generated files
+node_modules/
+*.db
+*.sqlite3
+coverage/
+.next/
+*.log
+CHANGELOG.md

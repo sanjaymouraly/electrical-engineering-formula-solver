@@ -1,0 +1,5 @@
+name,voltage_v,resistance_ohm
+LED driver load,12,24
+Heater element,230,46
+Sensor bias,5,1000
+Broken row,230,0
